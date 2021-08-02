@@ -2,12 +2,9 @@
 #include <string>
 #include <vector>
 #include <time.h>
-#include <string>
 //#include <windows.h>
 //#include<conio.h>
 //#include<dos.h>
-#include <time.h>
-#include <string>
 
 using namespace std;
 
