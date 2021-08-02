@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/berkekincioglu/CLionProjects/magicTheGatheringLite/main.cpp
+iostream
+-
+string
+-
+vector
+-
+time.h
+-
+string
+-
+time.h
+-
+string
+-
+
